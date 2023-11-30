@@ -28,8 +28,8 @@ export default function Home() {
           }}
         >
           <p>
-            Actually I am Gay and i am looking for a sugar daddy. Who can pay me
-            for my services and i am willing to do any thing for that. #LGBTQ
+            Actually I am Gay and i am looking for a sugar daddy.I am willing to
+            do any thing for that. #LGBTQ
           </p>{" "}
         </p>
       </motion.div>
